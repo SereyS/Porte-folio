@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { createBrowserRouter, NavLink } from "react-router-dom";
 import Capture from "./assets/Capture.PNG";
 import Hutchinson from "./assets/Hutchinson.jpeg";
-import virtuel from "./assets/virtuel.png";
+import virtuel from "./assets/Virtuel.png";
 
 
 // ===
